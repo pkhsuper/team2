@@ -27,7 +27,12 @@
       4) 블렌더 노드의 인터페이스와 material slots에 관해  
         블렌더 앱에서 사용되는 노드 시스템에 대해 간단히 살펴보자. 블렌더의 노드 시스템에는 **인터페이스(Interface)**와 Material Slots가 있다. 
         먼저 노드 인터페이스는 클러스터에 있는 원격 노드의 구성 요소 집합 또는 개별 구성 요소와 관련된 메트릭을 보고한다. 구성 요소에는 프로세서나 메모리가 포함되며, 개별 구성 요소에는 클러스터의 원격 노드의 프로세서, 네트워크 인터페이스 또는 메모리 페이지가 포함된다.  
-        그리고 Material Slots는 여러 개의 재질을 하나의 오브젝트에 추가할 수 있는 기능이다. 각 재질은 각각의 노드를 가지며, 새로운 재질을 추가할 때마다 새로운 노드 그룹이 생성된다.
+        그리고 Material Slots는 여러 개의 재질을 하나의 오브젝트에 추가할 수 있는 기능이다. 각 재질은 각각의 노드를 가지며, 새로운 재질을 추가할 때마다 새로운 노드 그룹이 생성된다.  
+        출처:-https://blog.naver.com/blue9954/221052719941
+-https://easyitwanner.tistory.com/127
+-https://artisticrender.com/the-complete-beginners-guide-to-blender-nodes-eevee-cycles-and-pbr/
+-https://m.blog.naver.com/dkdk7422/222715921690
+-https://artisticrender.com/the-complete-beginners-guide-to-blender-nodes-eevee-cycles-and-pbr/
 
 
 
