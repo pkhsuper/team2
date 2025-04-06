@@ -195,6 +195,8 @@ Object Data 데이터 블록을 가지고 있으며, “편집 모드(Edit Mode)
 
 모션 경로 도구는 일련의 프레임에 걸쳐 포인트의 이동 경로를 시각화하는 데 사용된다. 이 포인트들은 객체의 원점이나 뼈의 관절도 포함한다.
 
+출처:https://docs.blender.org/manual/en/latest/index.html
+
 
 
 
