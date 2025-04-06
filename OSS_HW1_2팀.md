@@ -67,7 +67,8 @@
      - 색조, 채도, 색상 수정(Color correction)
      - 색상 균형(Color balance)
      - 곡선(Curve)
-   
+     - 감마
+     - RGB 분리, RGB 혼합
     
 4.리깅, 애니메이션
 
