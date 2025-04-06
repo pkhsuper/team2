@@ -69,6 +69,7 @@
      - 곡선(Curve)
      - 감마
      - RGB 분리, RGB 혼합
+     - 혼합(Mix): Multiply, Overlay, Screen, Lighten, Darken 등 모든 레이어 혼합 모드
     
 4.리깅, 애니메이션
 
