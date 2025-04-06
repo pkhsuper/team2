@@ -63,7 +63,8 @@
   2) 렌더 결과를 후처리(Post-process) 및 수정 시에도 합성 노드를 사용한다.
      - 비네트(Vignette)
      - 섬광(Glare)
-
+     - 빛망울(Bokeh)
+     - 색조, 채도, 색상 수정(Color correction)
        
 4.리깅, 애니메이션
 
