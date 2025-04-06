@@ -65,7 +65,10 @@
      - 섬광(Glare)
      - 빛망울(Bokeh)
      - 색조, 채도, 색상 수정(Color correction)
-       
+     - 색상 균형(Color balance)
+     - 곡선(Curve)
+   
+    
 4.리깅, 애니메이션
 
 
