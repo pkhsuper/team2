@@ -71,6 +71,7 @@
      - RGB 분리, RGB 혼합
      - 혼합(Mix): Multiply, Overlay, Screen, Lighten, Darken 등 모든 레이어 혼합 모드
      - 이미지 좌표 변형(Translate)
+     - 투명도 있는 이미지로 덮어쓰기(Alpha over)
     
 4.리깅, 애니메이션
 
