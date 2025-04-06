@@ -72,7 +72,10 @@
      - 혼합(Mix): Multiply, Overlay, Screen, Lighten, Darken 등 모든 레이어 혼합 모드
      - 이미지 좌표 변형(Translate)
      - 투명도 있는 이미지로 덮어쓰기(Alpha over)
-     - 후처리(Post-processing) 노드 
+     - 후처리(Post-processing) 노드
+       1) 자동 처리: 후처리 노드를 설정하면 렌더할 때마다 자동으로 처리된다.
+       2) 자동 저장: 렌더할 때마다 이미지가 자동으로 폴더에 저장된다.
+       3) 장면의 여러 카메라 각도 및 애니메이션에 유용하다.
 4.리깅, 애니메이션
 
 
